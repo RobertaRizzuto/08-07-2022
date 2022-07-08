@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap');
+ html{
+    font-family: 'Montserrat', sans-serif;
+    color:aliceblue
+ }
+
+body{
+    background-image: url(./images/3876048.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 0px;
+}
